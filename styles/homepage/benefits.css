@@ -1,0 +1,31 @@
+/* BENEFITS */
+
+.benefits {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 2rem 1rem;
+  max-width: 50rem;
+  margin: auto;
+}
+.benefits-container {
+  margin-top: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+.benefits-block {
+  display: flex;
+  flex-direction: column;
+  padding: 0.3rem;
+  width: 15rem;
+  border-radius: 15px;
+  background-color: #ffffff50;
+}
+.benefits-block * {
+  background-color: #ffffff00;
+}
+.block-top p {
+  font-weight: bold;
+}

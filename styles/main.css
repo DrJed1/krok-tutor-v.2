@@ -1,0 +1,31 @@
+main{
+  padding-top: 6rem !important;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  max-width: 50rem;
+  margin: auto;
+}
+main * {
+  background-color: #ffffff00;
+}
+main {
+  background-color: #ffffff50;
+  border-radius: 0.5rem;
+}
+main h1, main h2 {
+  text-align: center;
+}
+main img {
+  width: 20rem;
+  align-self: center;
+}
+main ul{
+  list-style: circle;
+  padding:0 1rem;
+  line-height: 2rem;
+}
+main ul li{
+  margin-bottom: 1rem;
+}

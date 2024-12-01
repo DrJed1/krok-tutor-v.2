@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+SITEMAP: https://krok.center/sitemap.txt

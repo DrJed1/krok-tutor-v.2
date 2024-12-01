@@ -1,0 +1,19 @@
+footer{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding:1em;
+  background-color: #ffffff50;
+}
+footer *{
+  background-color: #ffffff00;
+}
+.footer-nav ul{
+  display: flex;
+  flex-wrap: wrap;
+  gap:1.5rem;
+}
+.footer-nav ul *{
+  text-decoration:none;
+  color: black;
+}
